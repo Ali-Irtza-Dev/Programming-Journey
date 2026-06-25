@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int a;
+int a,b;
 cout<<"Hello World"<<endl;
-cin>>a;
+cin>>a>>b;
 }
