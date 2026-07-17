@@ -18,7 +18,7 @@ int main()
     cin>>bookPrice;
     cout<<"Enter Number of Pages"<<endl;     
     cin>>numberOfPages;
-    cout<<"************** BOOK INFORMATION *************"<<endl;
+    cout<<"************** BOOK-INFORMATION *************"<<endl;
     cout<<"* Book Title: "<<bookTitle<<"                             *"<<endl;
     cout<<"* Publication Year: "<<publicationYear<<"                       *"<<endl;
     cout<<"* Book Price: "<<bookPrice<<"                             *"<<endl;
