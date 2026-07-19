@@ -10,4 +10,5 @@ cout<<setw(18) <<"--------"<<setw(10) << "--------"<<endl;
 cout<<setw(18) <<"Haris"<<setw(10) << "24-NTU-CS-1001"<<endl;
 cout<<setw(18) <<"Sana"<<setw(10) << "24-NTU-CS-1002"<<endl;
 cout<<setw(18) <<"Muhammad Ali"<<setw(10) << "24-NTU-CS-1003"<<endl;
+// End of program 
 }
